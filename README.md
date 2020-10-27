@@ -2,11 +2,11 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/awais-hassan-7bb3b5133/" title="LinkedIn Profile">
-      <img width="22" src="https://github.com/AWAIS97/AWAIS97/images/main/linkedin.svg"> LinkedIn</a>
+      <img width="22" src="images//linkedin.svg"> LinkedIn</a>
   </code>
   <code>
     <a href="https://www.instagram.com/awwaais/" title="Instagram Profile">
-      <img width="22" src="https://github.com/AWAIS97/AWAIS97/images/main/instagram.svg"> Instagram</a>
+      <img width="22" src="images/main/instagram.svg"> Instagram</a>
     </code>
 </h5>
 <br>
