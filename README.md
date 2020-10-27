@@ -7,7 +7,7 @@
   <code>
     <a href="https://www.instagram.com/awwaais/" title="Instagram Profile">
       <img width="22" src="https://github.com/AWAIS97/AWAIS97/images/instagram.svg"> Instagram</a><
-    /code>
+    </code>
 </h5>
 <br>
 <p align="center">
