@@ -46,11 +46,10 @@
 <h2 align="center">Abilities</h2>
 
 <p align="center">
-  
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-   <code><img title="Creative Ideas" height="25" src="images/creative.svg"></code>
- 
+  <code><img title="Creative Ideas" height="25" src="images/creative.svg"></code>
 </p>
+
 <hr>
 
 <h2 align="center">Hobbies</h2>
