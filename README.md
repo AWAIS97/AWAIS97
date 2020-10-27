@@ -38,4 +38,25 @@
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="VScode" height="25" src="images/vscode.svg"></code>
+</p>
+
+<hr>
+
+<h2 align="center">Abilities</h2>
+
+<p align="center">
+  
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+   <code><img title="Creative Ideas" height="25" src="images/creative.png"></code>
+ 
+</p>
+<hr>
+
+<h2 align="center">Hobbies</h2>
+
+<p align="center">
+  <code><img title="EGaming" height="25" src="images/video.game.svg"></code>
+  <code><img title="Research" height="25" src="images/research.svg"></code>
+  
 </p>
