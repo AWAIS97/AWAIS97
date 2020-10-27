@@ -48,7 +48,7 @@
 <p align="center">
   
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-   <code><img title="Creative Ideas" height="25" src="images/creative.png"></code>
+   <code><img title="Creative Ideas" height="25" src="images/creative.svg"></code>
  
 </p>
 <hr>
@@ -56,7 +56,7 @@
 <h2 align="center">Hobbies</h2>
 
 <p align="center">
-  <code><img title="EGaming" height="25" src="images/video.game.svg"></code>
+  <code><img title="EGaming" height="25" src="images/video-game.svg"></code>
   <code><img title="Research" height="25" src="images/research.svg"></code>
   
 </p>
