@@ -34,7 +34,6 @@
 <p align="center">
   <code><img title="React" height="25" src="images/react.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
