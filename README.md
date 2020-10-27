@@ -1,16 +1,36 @@
-### Hi there 👋
+<h3 align="center">Hello there, I'm Awais 👋</h3>
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/awais-hassan-7bb3b5133/" title="LinkedIn Profile"><img width="22" src="https://github.com/AWAIS97/AWAIS97/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/awwaais/" title="Instagram Profile"><img width="22" src="https://github.com/AWAIS97/AWAIS97/images/instagram.svg"> Instagram</a></code>
+</h5>
+<br>
+<p align="center">
+  Hi, I'm Awais Hassan, Front-End Web Developer from Pakistan
+  <br>
+  <br>
+  🔬 I recently completed my master's degree in ARID-University, Rawalpindi
+  <br>
+  🎓 I graduated from Punjab College Jhelum
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning how to use Redux and Gastby
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/AWAIS97/AWAIS97/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: Awaishassan1997@gmail.com">Awaishassan1997@gmail.com</a>
+</p>
 
-<!--
-**AWAIS97/AWAIS97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+
+  <code><img title="Javascript" height="25" src="https://github.com/AWAIS97/AWAIS97/images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="https://github.com/AWAIS97/AWAIS97/images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/AWAIS97/AWAIS97/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/AWAIS97/AWAIS97/images/css.svg"></code>
+  <code><img title="JSON" height="25" src="https://github.com/AWAIS97/AWAIS97/images/json.svg"></code>
+</p>
