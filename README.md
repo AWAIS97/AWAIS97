@@ -1,8 +1,13 @@
 <h3 align="center">Hello there, I'm Awais 👋</h3>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/awais-hassan-7bb3b5133/" title="LinkedIn Profile"><img width="22" src="https://github.com/AWAIS97/AWAIS97/main/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/awwaais/" title="Instagram Profile"><img width="22" src="https://github.com/AWAIS97/AWAIS97/images/instagram.svg"> Instagram</a></code>
+    <a href="https://www.linkedin.com/in/awais-hassan-7bb3b5133/" title="LinkedIn Profile">
+      <img width="22" src="https://github.com/AWAIS97/AWAIS97/images/linkedin.svg"> LinkedIn</a>
+  </code>
+  <code>
+    <a href="https://www.instagram.com/awwaais/" title="Instagram Profile">
+      <img width="22" src="https://github.com/AWAIS97/AWAIS97/images/instagram.svg"> Instagram</a><
+    /code>
 </h5>
 <br>
 <p align="center">
@@ -27,7 +32,7 @@
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="center">
-
+  <code><img title="React" height="25" src="https://github.com/AWAIS97/AWAIS97/images/react.svg"></code>
   <code><img title="Javascript" height="25" src="https://github.com/AWAIS97/AWAIS97/images/javascript.svg"></code>
   <code><img title="Problem Solving" height="25" src="https://github.com/AWAIS97/AWAIS97/images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="https://github.com/AWAIS97/AWAIS97/images/html5.svg"></code>
