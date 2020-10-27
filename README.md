@@ -2,11 +2,11 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/awais-hassan-7bb3b5133/" title="LinkedIn Profile">
-      <img width="22" src="https://github.com/AWAIS97/AWAIS97/images/linkedin.svg"> LinkedIn</a>
+      <img width="22" src="https://github.com/AWAIS97/AWAIS97/images/main/linkedin.svg"> LinkedIn</a>
   </code>
   <code>
     <a href="https://www.instagram.com/awwaais/" title="Instagram Profile">
-      <img width="22" src="https://github.com/AWAIS97/AWAIS97/images/instagram.svg"> Instagram</a>
+      <img width="22" src="https://github.com/AWAIS97/AWAIS97/images/main/instagram.svg"> Instagram</a>
     </code>
 </h5>
 <br>
@@ -32,10 +32,10 @@
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="center">
-  <code><img title="React" height="25" src="https://github.com/AWAIS97/AWAIS97/images/react.svg"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/AWAIS97/AWAIS97/images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/AWAIS97/AWAIS97/images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/AWAIS97/AWAIS97/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/AWAIS97/AWAIS97/images/css.svg"></code>
-  <code><img title="JSON" height="25" src="https://github.com/AWAIS97/AWAIS97/images/json.svg"></code>
+  <code><img title="React" height="25" src="https://github.com/AWAIS97/AWAIS97/images/main/react.svg"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/AWAIS97/AWAIS97/images/main/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="https://github.com/AWAIS97/AWAIS97/images/main/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/AWAIS97/AWAIS97/images/main/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/AWAIS97/AWAIS97/images/main/css.svg"></code>
+  <code><img title="JSON" height="25" src="https://github.com/AWAIS97/AWAIS97/images/main/json.svg"></code>
 </p>
