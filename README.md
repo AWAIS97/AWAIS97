@@ -6,7 +6,7 @@
   </code>
   <code>
     <a href="https://www.instagram.com/awwaais/" title="Instagram Profile">
-      <img width="22" src="images/main/instagram.svg"> Instagram</a>
+      <img width="22" src="images/instagram.svg"> Instagram</a>
     </code>
 </h5>
 <br>
@@ -24,7 +24,7 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/AWAIS97/AWAIS97/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: Awaishassan1997@gmail.com">Awaishassan1997@gmail.com</a>
+  📫 How to reach me: <a href="mailto: awaishassan1997@gmail.com">awaishassan1997@gmail.com</a>
 </p>
 
 <hr>
@@ -32,10 +32,10 @@
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="center">
-  <code><img title="React" height="25" src="https://github.com/AWAIS97/AWAIS97/images/main/react.svg"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/AWAIS97/AWAIS97/images/main/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/AWAIS97/AWAIS97/images/main/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/AWAIS97/AWAIS97/images/main/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/AWAIS97/AWAIS97/images/main/css.svg"></code>
-  <code><img title="JSON" height="25" src="https://github.com/AWAIS97/AWAIS97/images/main/json.svg"></code>
+  <code><img title="React" height="25" src="images/react.svg"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
 </p>
