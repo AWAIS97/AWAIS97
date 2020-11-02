@@ -11,7 +11,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Awais Hassan, Front-End Web Developer from Pakistan
+   Front-End Web Developer from Pakistan
   <br>
   <br>
   🔬 I recently completed my master's degree in ARID-University, Rawalpindi
