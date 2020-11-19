@@ -20,7 +20,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning how to use Redux and Gastby
+  📚 I’m currently learning how to use Redux and NextJS
   <br>
   💬 Ask me anything about from <a href="https://github.com/AWAIS97/AWAIS97/issues" title="Issues">Here</a>
   <br>
