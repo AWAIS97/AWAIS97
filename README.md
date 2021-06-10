@@ -14,7 +14,7 @@
    Front-End Web Developer from Pakistan
   <br>
   <br>
-  🔬 I recently completed my master's degree in ARID-University, Rawalpindi
+  🔬 I completed my master's degree in ARID-University, Rawalpindi
   <br>
   🎓 I graduated from Punjab College Jhelum
   <br>
