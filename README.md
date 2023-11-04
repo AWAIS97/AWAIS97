@@ -1,13 +1,9 @@
 <h3 align="center">Hello there, I'm Awais 👋</h3>
 <h5 align="center">
-  <code>
     <a href="https://www.linkedin.com/in/awais-hassan-7bb3b5133/" title="LinkedIn Profile">
       <img width="22" src="images//linkedin.svg"> LinkedIn</a>
-  </code>
-  <code>
     <a href="https://www.instagram.com/awwaais/" title="Instagram Profile">
       <img width="22" src="images/instagram.svg"> Instagram</a>
-    </code>
 </h5>
 <br>
 <p align="center">
