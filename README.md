@@ -11,17 +11,7 @@
 </h5>
 <br>
 <p align="center">
-   Front-End Web Developer from Pakistan
-  <br>
-  <br>
-  🔬 I completed my master's degree in ARID-University, Rawalpindi
-  <br>
-  🎓 I graduated from Punjab College Jhelum
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning NextJS Framework
-  <br>
+  💻 I love writing code and learn anything about it
   💬 Ask me anything about from <a href="https://github.com/AWAIS97/AWAIS97/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: awaishassan1997@gmail.com">awaishassan1997@gmail.com</a>
