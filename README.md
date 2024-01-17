@@ -10,7 +10,7 @@
 
 <hr>
 
-<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+<h2 align="center">Languages & Frameworks</h2>
 
 <p align="center">
   <code><img title="React" height="25" src="images/react.svg"></code>
