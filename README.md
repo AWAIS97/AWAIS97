@@ -8,12 +8,4 @@
   📫 How to reach me: <a href="mailto: awaishassan1997@gmail.com">awaishassan1997@gmail.com</a>
 </p>
 
-<hr>
-
-<h2 align="center">Languages & Frameworks</h2>
-
-<p align="center">
-  <code><img title="React" height="25" src="images/react.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-</p>
 
